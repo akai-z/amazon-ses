@@ -1,5 +1,5 @@
-Amazon SES
-==========
+Amazon SES `[UNMAINTAINED]`
+===========================
 
 
 #### Contents
